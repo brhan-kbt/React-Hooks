@@ -7,10 +7,6 @@ A comprehensive, interactive showcase of all React hooks with detailed explanati
 ![Vite](https://img.shields.io/badge/Vite-7.1+-green.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1+-blue.svg)
 
-## 🚀 Live Demo
-
-Visit the live application at: [http://localhost:5173/](http://localhost:5173/)
-
 ## 📚 What You'll Learn
 
 This interactive guide covers **all React hooks** with practical examples:
@@ -65,7 +61,7 @@ This interactive guide covers **all React hooks** with practical examples:
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd session14
+   cd React-Hooks
    ```
 
 2. **Install dependencies**
@@ -100,7 +96,7 @@ npm run lint
 ## 📁 Project Structure
 
 ```
-session14/
+React-Hooks/
 ├── src/
 │   ├── App.tsx          # Main application with all hooks examples
 │   ├── main.tsx         # Application entry point
@@ -156,34 +152,6 @@ session14/
 - Modify `src/index.css` for global styles
 - Use Tailwind classes for component styling
 - Add custom animations in the CSS file
-
-## 📚 Resources
-
-- [React Hooks Documentation](https://react.dev/reference/react)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Guide](https://vitejs.dev/guide/)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- React team for the amazing hooks API
-- Vite team for the lightning-fast build tool
-- Tailwind CSS for the utility-first framework
-- All contributors and the open-source community
-
----
 
 **Happy Learning! 🎉**
 
